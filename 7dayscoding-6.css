@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+header {
+  text-align: center;
+}
+
+body {
+  background: url("supermarket.jpg") no-repeat;
+  background-position: 100% 100%;
+  font-family: "Roboto", sans-serif;
+}
+
+.lista {
+  display: flex;
+  flex-direction: column;
+  background: #ecf4ff;
+  box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+  border-radius: 20px;
+  color: #1c1c1c;
+  padding: 16px;
+  opacity: 0.9;
+  text-align: center;
+}
+
+.compra{
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 160px;
+}
+
+.btn{
+  display: flex;
+  align-items: center;
+  background: #ecf4ff;
+  color: #1c1c1c;
+  box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  width: 150px;
+  height: 50px;
+}
