@@ -6,3 +6,4 @@ Repositório para os arquivos do desafio Alura #7DaysOfCode em #JavaScript  #Alu
 - dia 4: utilizando Math() e random() para gerar número aleatório; Jogo da Advinhação
 - dia 5: utilizando arrays para fazer um programa de lista de compras para supermercados
 - dia 6: utilizando outros métodos de array para implementar função de remoção de produtos da lista de compras
+- dia 7: utilizando switch/case para implementar uma calculadora de operações matemáticas simples
